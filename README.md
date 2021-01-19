@@ -17,7 +17,7 @@ vercel
 ### 7.  [CLI] lister les différents déploiements qui ont eu lieu sur votre projet
 vercel ls
 
-###8.  [CLI] afficher les logs liés au déploiement précédent
+### 8.  [CLI] afficher les logs liés au déploiement précédent
 On utilise la commande :
 vercel logs [deployment-url]
 dans notre cas :
@@ -58,7 +58,9 @@ Pourquoi plusieurs environnements pour un meme projet ? Quel en est l'utilité d
 L'environement de developpement est utiliser pour le développement, c'est à dire que les que toutes les fonctionalitées ne sont pas totalement implémentés. Production correspond à la version stable.
 L'environnement de preview sert pour réaliser une dernière vérification de notre application juste avant la mise en production.
 
-
+### 18. Connectez vercel et github
+On recréer le projet, mais cette fois à partir des sources du github
+https://td-vercel-depuis-git-eo41g24wg.vercel.app/
 
 
 
